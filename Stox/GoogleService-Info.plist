@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>246284714755-2baavkns5o7c2do0alc9g1267nagiios.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.246284714755-2baavkns5o7c2do0alc9g1267nagiios</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDnj05BpfWgBZP7CF6w4yFFQnhY-jEnf_Q</string>
+	<key>GCM_SENDER_ID</key>
+	<string>246284714755</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.aryan1072.stox</string>
+	<key>PROJECT_ID</key>
+	<string>stox-5a7dd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>stox-5a7dd.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:246284714755:ios:a55365edeafdcbfdee1f36</string>
+	<key>DATABASE_URL</key>
+	<string>https://stox-5a7dd.firebaseio.com</string>
+</dict>
+</plist>
